@@ -42,13 +42,18 @@ author_profile: false
      btn_class: "btn--primary"
 
  sponsorship:
-   - image_path: assets/images/Citadel.jpg
+   - image_path: assets/images/CIBC.png
      alt: ""
      title: ""
      excerpt: ""
      btn_label: "Homepage"
      btn_class: "btn--primary"
-    
+   - image_path: assets/images/LG.jpg
+     alt: ""
+     title: ""
+     excerpt: ""
+     btn_label: "Homepage"
+     btn_class: "btn--primary"
 ---
 <br/>
 ## About
