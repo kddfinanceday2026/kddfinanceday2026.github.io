@@ -74,7 +74,7 @@ sponsorship:
 
 <!-- Room 716 A<br>Metro Toronto Convention Centre South Building Level 700 -->
 
-<section class="organizers" markdown="1" style="margin-top: 2em">
+<!-- <section class="organizers" markdown="1" style="margin-top: 2em"> -->
 ## Organizers
 <!--   
 {% include feature_row id="organizers_row_first" %} -->
