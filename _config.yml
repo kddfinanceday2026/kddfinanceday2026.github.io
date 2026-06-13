@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "KDD Finance Day 2025"
+title: "KDD Finance Day 2026"
 # subtitle: Understanding the Limits and Pushing the Boundaries of Deep Learning
 # email: sameer@uci.edu
 description: 
-- KDD 2025, August 4, 2025.
+- KDD 2026, August 4, 2026.
 # - Virtual
 # twitter_username: username
 # github_username: uci-ml-repo
@@ -70,7 +70,7 @@ footer:
       
     - label: "@hit"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://hits.sh/kddfinanceday2025.github.io.svg"
+      url: "https://hits.sh/kddfinanceday2026.github.io.svg"
       
     # - label: "@baharanm"
     #   icon: "fab fa-fw fa-twitter-square"
