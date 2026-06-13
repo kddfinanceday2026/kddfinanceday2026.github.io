@@ -96,10 +96,11 @@ Rama:
         VP AI/ML for IT, NVIDIA
 
 ---
-KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
+<!-- KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada. -->
+KDD Finance Day 2026 will take place on ...
 
 
-<table class="tg">
+<!-- <table class="tg">
 <tbody>
     <tr>
         <th class="tg-feht">9:30 AM</th>
@@ -180,14 +181,14 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
         </td>
     </tr>
 </tbody>
-</table>
+</table> -->
 
 <br />
 <br/>
 <section class="organizers" markdown="1">
   
 ### Invited Speakers
-{% include feature_row id="David" type="left" %}
+<!-- {% include feature_row id="David" type="left" %}
 {% include feature_row id="Chenxi" type="left" %}
 {% include feature_row id="Igor" type="left" %}
 {% include feature_row id="Qiaozhu" type="left" %}
@@ -197,7 +198,7 @@ KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada.
 {% include feature_row id="Camilo" type="left" %}
 {% include feature_row id="Sohaib" type="left" %}
 {% include feature_row id="Linbo" type="left" %}
-{% include feature_row id="Edward" type="left" %}
+{% include feature_row id="Edward" type="left" %} -->
 
 
 </section>

@@ -100,7 +100,7 @@ Rama:
 <section class="organizers" markdown="1">
 
 ### Invited Speakers
-{% include feature_row id="David" type="left" %}
+<!-- {% include feature_row id="David" type="left" %}
 {% include feature_row id="Chenxi" type="left" %}
 {% include feature_row id="Igor" type="left" %}
 {% include feature_row id="Qiaozhu" type="left" %}
@@ -110,7 +110,7 @@ Rama:
 {% include feature_row id="Camilo" type="left" %}
 {% include feature_row id="Sohaib" type="left" %}
 {% include feature_row id="Linbo" type="left" %}
-{% include feature_row id="Edward" type="left" %}
+{% include feature_row id="Edward" type="left" %} -->
 
 </section>
 

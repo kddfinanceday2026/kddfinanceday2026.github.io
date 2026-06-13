@@ -68,24 +68,24 @@ sponsorship:
 <br/>
 ## About
 
-Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. 
+<!-- Join us at KDD Finance Day 2025 on August 4, 2025, in Toronto, Canada. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future.  -->
 
 ## The Venue
 
-Room 716 A<br>Metro Toronto Convention Centre South Building Level 700
+<!-- Room 716 A<br>Metro Toronto Convention Centre South Building Level 700 -->
 
 <section class="organizers" markdown="1" style="margin-top: 2em">
 ## Organizers
-  
-{% include feature_row id="organizers_row_first" %}
+<!--   
+{% include feature_row id="organizers_row_first" %} -->
 
 
 ## Web Chair
 
-{% include feature_row id="organizers_row_second" %}
+<!-- {% include feature_row id="organizers_row_second" %} -->
 
 ## Sponsorship
 
-{% include feature_row id="sponsorship" %}
+<!-- {% include feature_row id="sponsorship" %} -->
 
 </section>
