@@ -20,12 +20,12 @@ organizers_row_first:
   - image_path: assets/images/yongjaelee.png
     alt: "Yongjae Lee"
     title: "Yongjae Lee"
-    excerpt: "Associate Professor"    
+    excerpt: "Associate Professor at Ulsan National Institute of Science and Technology (UNIST)"    
     url: "https://unist-felab.notion.site/yongjaelee"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/xuxin.png
+  - image_path: assets/images/xinxu.jpeg
     alt: "Xin Xu"
     title: "Xin Xu"
     excerpt: "Professor and Department Head, PolyU Business School"
@@ -35,11 +35,11 @@ organizers_row_first:
 
 organizers_row_second:
   - image_path: assets/images/xuanzhang.jpg
-     alt: "Xuan Zhang"
-     title: "Xuan Zhang"
-     excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
-     btn_label: "Homepage"
-     btn_class: "btn--primary"
+    alt: "Xuan Zhang"
+    title: "Xuan Zhang"
+    excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 
 sponsorship:
   - image_path: assets/images/CIBC.png
@@ -48,7 +48,7 @@ sponsorship:
     excerpt: ""
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  - image_path: assets/images/LG.jpg
+  - image_path: assets/images/LG.png
     alt: ""
     title: ""
     excerpt: ""

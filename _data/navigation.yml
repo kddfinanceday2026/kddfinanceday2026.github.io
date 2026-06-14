@@ -9,5 +9,7 @@ main:
     url: 'speakers'
   - title: "Organizers"
     url: 'about#organizers'
+  - title: "Data Competition"
+    url: 'data-competition'
   # - title: "Tags"
   #   url: /tags/

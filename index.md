@@ -98,7 +98,7 @@ author_profile: false
 ---
 <!-- KDD Finance Day 2025 will take place on August 4, 2025, in Toronto, Canada. -->
 
-KDD Finance Day 2026 will take place on ...
+TBD
 
 <!-- <table class="tg">
 <tbody>
