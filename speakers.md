@@ -7,6 +7,30 @@ layout: single
 classes: wide
 author_profile: false
 
+CristianBravo:
+  - image_path: assets/images/CristianBravo-Square.jpg
+    alt: "Cristian Bravo Roman"
+    title: "Cristian Bravo Roman"
+    url: "https://www.uwo.ca/stats/people/bios/cristin_bravo_roman.html"
+    excerpt: |
+        Canada Research Chair in Banking and Insurance Analytics and Director of the Banking Analytics Lab at Western University.
+
+WenqiFan:
+  - image_path: assets/images/wenqifan.png
+    alt: "Wenqi Fan"
+    title: "Wenqi Fan"
+    url: "https://www.linkedin.com/in/wenqi-fan-a425a7196/"
+    excerpt: |
+        HK PolyU (joint appt with both Computing and B-School)
+
+EnricoSantus:
+  - image_path: assets/images/Enrico Santus.jpeg
+    alt: "Enrico Santus"
+    title: "Enrico Santus"
+    url: "https://www.linkedin.com/in/esantus/"
+    excerpt: |
+        Principal Technical Strategist, Bloomberg CTO Office
+
 Dongjin:
   - image_path: assets/images/dongjin.jpg
     alt: "Dongjin Song"
@@ -26,9 +50,12 @@ Soojung:
 
 ---
 <br/>
-<section class="organizers" markdown="1">
+<section class="organizers speaker-photos" markdown="1">
 
 ### Invited Speakers
+{% include feature_row id="CristianBravo" type="left" %}
+{% include feature_row id="WenqiFan" type="left" %}
+{% include feature_row id="EnricoSantus" type="left" %}
 {% include feature_row id="Dongjin" type="left" %}
 {% include feature_row id="Soojung" type="left" %}
 
