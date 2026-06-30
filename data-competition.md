@@ -66,6 +66,6 @@ Additional technical contributors from LG AI Research.
 
 ## External Competition Site
 
-Visit the official competition website for registration, datasets, and submission details:
+Register, access the datasets, and submit your entries at the XForecast Challenge website:
 
 **[https://xforecast.github.io/](https://xforecast.github.io/)**
