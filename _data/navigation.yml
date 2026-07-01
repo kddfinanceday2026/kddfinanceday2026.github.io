@@ -1,15 +1,11 @@
 main:
-  - title: "Program"
-    url: '#program'
-  # - title: "Call for Talks"
-    # url: 'call'
   - title: "About"
-    url: 'about'
-  - title: "Speakers"
-    url: 'speakers'
+    url: /
   - title: "Organizers"
-    url: 'about#organizers'
+    url: '/#organizers'
   - title: "Data Competition"
     url: 'data-competition'
-  # - title: "Tags"
-  #   url: /tags/
+  - title: "Speakers"
+    url: 'speakers'
+  - title: "Program"
+    url: 'program'
