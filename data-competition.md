@@ -36,6 +36,30 @@ challenge_organizers_row:
     url: "https://www.linkedin.com/in/wonbin-ahn/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+
+  - image_path: assets/images/jaehoonlee.jpeg
+    alt: "Jaehoon Lee"
+    title: "Jaehoon Lee"
+    excerpt: "LG AI Research"
+    url: "https://www.linkedin.com/in/jaehoon-lee-36125a1a7/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/JunSeo.jpeg
+    alt: "Jun Seo"
+    title: "Jun Seo"
+    excerpt: "LG AI Research"
+    url: "https://www.linkedin.com/in/istar-jun/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/seunghanlee.jpeg
+    alt: "Seunghan Lee"
+    title: "Seunghan Lee"
+    excerpt: "LG AI Research"
+    url: "https://www.linkedin.com/in/seunghan-lee-0bba49169/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
 ---
 
 <br/>
@@ -48,8 +72,7 @@ The **XForecast Challenge** is a financial forecasting competition designed to a
 
 | Milestone | Date |
 | --- | --- |
-| Competition Launch | As soon as possible (planned: June 27, 2026) |
-| Competition Duration | Approximately 1 month |
+| Competition Launch | June 27, 2026 |
 | Submission Deadline | July 20, 2026 |
 | Code Review and Validation | July 21–26, 2026 |
 | Winner Announcement | July 27, 2026 |
