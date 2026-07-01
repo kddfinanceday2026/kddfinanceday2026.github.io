@@ -29,20 +29,11 @@ organizers_row_first:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
-organizers_row_co:
   - image_path: assets/images/wonbinahn.jpeg
     alt: "Wonbin Ahn"
     title: "Wonbin Ahn"
     excerpt: "LG AI Research"
     url: "https://www.linkedin.com/in/wonbin-ahn/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-
-  - image_path: assets/images/JunSeo.jpeg
-    alt: "Jun Seo"
-    title: "Jun Seo"
-    excerpt: "LG AI Research"
-    url: "https://www.linkedin.com/in/istar-jun/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
@@ -81,11 +72,6 @@ Join us at [KDD](https://kdd2026.kdd.org/) Finance Day 2026 on August 10, 2026, 
 ## Organizers
 
 {% include feature_row id="organizers_row_first" %}
-
-
-## Co-Organizers
-
-{% include feature_row id="organizers_row_co" %}
 
 
 ## Web Chair
