@@ -70,6 +70,10 @@ Join us at [KDD](https://kdd2026.kdd.org/) Finance Day 2026 on August 10, 2026, 
 
 {% include feature_row id="organizers_row_second" %}
 
+</section>
+
+<section class="organizers" markdown="1">
+
 ## Sponsorship
 
 {% include feature_row id="sponsorship" %}
