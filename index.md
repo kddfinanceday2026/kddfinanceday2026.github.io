@@ -54,7 +54,7 @@ sponsorship:
 <br/>
 ## About
 
-Join us at KDD Finance Day 2026 on August 10, 2025, in Jeju, Korea. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future.
+Join us at [KDD](https://kdd2026.kdd.org/) Finance Day 2026 on August 10, 2025, in Jeju, Korea. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future.
 
 ## The Venue
 
