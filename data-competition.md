@@ -21,11 +21,11 @@ challenge_organizers_row:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/yongjaelee.png
+  - image_path: assets/images/yongjaelee_0.JPG
     alt: "Yongjae Lee"
     title: "Yongjae Lee"
     excerpt: "Ulsan National Institute of Science and Technology (UNIST)"
-    url: "https://unist-felab.notion.site/yongjaelee"
+    url: "https://felab-unist.github.io/#members/yongjae-lee"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
@@ -54,7 +54,7 @@ The **XForecast Challenge** is a financial forecasting competition designed to a
 | Code Review and Validation | July 21–26, 2026 |
 | Winner Announcement | July 27, 2026 |
 
-<section class="organizers challenge-organizers" markdown="1" style="margin-top: 2em">
+<section class="organizers challenge-organizer-photos" markdown="1" style="margin-top: 2em">
 
 ## Challenge Organizers
 

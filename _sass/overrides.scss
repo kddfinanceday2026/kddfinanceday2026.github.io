@@ -36,8 +36,31 @@
 	}
 }
 
-.challenge-organizers {
-	.archive__item-teaser {
+.home-organizer-photos {
+	.archive__item:has(.archive__item-title) .archive__item-teaser {
+		img {
+			display: block;
+			width: 100%;
+			height: auto;
+			max-height: 280px;
+			object-fit: contain;
+			object-position: center top;
+		}
+	}
+
+	.archive__item:not(:has(.archive__item-title)) .archive__item-teaser {
+		img {
+			display: block;
+			width: 100%;
+			height: auto;
+			max-height: 120px;
+			object-fit: contain;
+		}
+	}
+}
+
+.challenge-organizer-photos {
+	.archive__item:has(.archive__item-title) .archive__item-teaser {
 		width: 100%;
 		aspect-ratio: 1 / 1;
 		overflow: hidden;
