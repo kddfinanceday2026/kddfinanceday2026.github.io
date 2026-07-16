@@ -82,4 +82,6 @@ SaurabhNagrecha:
 {% include feature_row id="Soojung" type="left" %}
 {% include feature_row id="SaurabhNagrecha" type="left" %}
 
+More panelists will be announced soon.
+
 </section>
