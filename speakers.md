@@ -69,9 +69,9 @@ SaurabhNagrecha:
 
 ### Invited Speakers
 {% include feature_row id="CristianBravo" type="left" %}
-{% include feature_row id="WenqiFan" type="left" %}
-{% include feature_row id="EnricoSantus" type="left" %}
 {% include feature_row id="Dongjin" type="left" %}
+{% include feature_row id="EnricoSantus" type="left" %}
+{% include feature_row id="WenqiFan" type="left" %}
 
 ### Panel Discussion
 
