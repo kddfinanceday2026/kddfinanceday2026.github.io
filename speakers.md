@@ -9,8 +9,8 @@ author_profile: false
 
 EogwonLee:
   - image_path: assets/images/eogwonlee.jpg
-    alt: "Eogwon Lee"
-    title: "Eogwon Lee"
+    alt: "Eog-weon Lee"
+    title: "Eog-weon Lee"
     url: "https://www.fsc.go.kr/eng/ab030101"
     excerpt: |
         Chairperson, Financial Services Commission of Korea
