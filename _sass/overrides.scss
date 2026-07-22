@@ -68,6 +68,20 @@
 }
 
 .speaker-photos {
+	h3 {
+		margin-top: 2.5em;
+		margin-bottom: 1.25em;
+	}
+
+	h3:first-of-type {
+		margin-top: 0.5em;
+	}
+
+	h4 {
+		margin-top: 1.75em;
+		margin-bottom: 1em;
+	}
+
 	.feature__wrapper {
 		margin-bottom: 2em;
 	}
@@ -106,6 +120,22 @@
 			flex: 1;
 			margin: 0;
 			padding: 0;
+		}
+	}
+
+	.keynote-speaker .feature__item--left .archive__item-teaser {
+		width: 220px;
+		min-width: 220px;
+		height: auto;
+		background: transparent;
+		overflow: visible;
+
+		img {
+			width: 100%;
+			height: auto;
+			object-fit: initial;
+			padding: 0;
+			border-radius: inherit;
 		}
 	}
 }

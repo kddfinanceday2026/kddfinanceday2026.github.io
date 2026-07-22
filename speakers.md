@@ -7,6 +7,14 @@ layout: single
 classes: wide
 author_profile: false
 
+EogwonLee:
+  - image_path: assets/images/eogwonlee.jpg
+    alt: "Eogwon Lee"
+    title: "Eogwon Lee"
+    url: "https://www.fsc.go.kr/eng/ab030101"
+    excerpt: |
+        Chairperson, Financial Services Commission of Korea
+
 CristianBravo:
   - image_path: assets/images/CristianBravo-Square.jpg
     alt: "Cristian Bravo Roman"
@@ -82,6 +90,11 @@ JooWonLee:
 ---
 <br/>
 <section class="organizers speaker-photos" markdown="1">
+
+### Keynote Speaker
+<div class="keynote-speaker" markdown="1">
+{% include feature_row id="EogwonLee" type="left" %}
+</div>
 
 ### Invited Speakers
 {% include feature_row id="CristianBravo" type="left" %}
