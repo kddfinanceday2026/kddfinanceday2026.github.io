@@ -79,14 +79,6 @@ SaurabhNagrecha:
     excerpt: |
         Staff Applied Research Engineer, Google
 
-JooWonLee:
-  - image_path: assets/images/joowonlee.jpg
-    alt: "Joo Won Lee"
-    title: "Joo Won Lee"
-    url: "https://www.linkedin.com/in/joo-lee-62b4071b/"
-    excerpt: |
-        Founding CTO and Partner, Arrowpoint Investment Partners
-
 ---
 <br/>
 <section class="organizers speaker-photos" markdown="1">
@@ -114,7 +106,6 @@ JooWonLee:
 {% include feature_row id="Soojung" type="left" %}
 {% include feature_row id="ArmanSahovic" type="left" %}
 {% include feature_row id="SaurabhNagrecha" type="left" %}
-{% include feature_row id="JooWonLee" type="left" %}
 
 More panelists will be announced soon.
 
