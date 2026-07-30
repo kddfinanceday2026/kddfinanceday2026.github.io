@@ -79,6 +79,14 @@ SaurabhNagrecha:
     excerpt: |
         Staff Applied Research Engineer, Google
 
+JunSeo:
+  - image_path: assets/images/JunSeo.jpeg
+    alt: "Jun Seo"
+    title: "Jun Seo"
+    url: "https://www.linkedin.com/in/istar-jun/"
+    excerpt: |
+        LG AI Research
+
 ---
 <br/>
 <section class="organizers speaker-photos" markdown="1">
@@ -106,6 +114,7 @@ SaurabhNagrecha:
 {% include feature_row id="Soojung" type="left" %}
 {% include feature_row id="ArmanSahovic" type="left" %}
 {% include feature_row id="SaurabhNagrecha" type="left" %}
+{% include feature_row id="JunSeo" type="left" %}
 
 More panelists will be announced soon.
 
