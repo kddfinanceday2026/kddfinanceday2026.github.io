@@ -116,6 +116,4 @@ JunSeo:
 {% include feature_row id="SaurabhNagrecha" type="left" %}
 {% include feature_row id="JunSeo" type="left" %}
 
-More panelists will be announced soon.
-
 </section>
