@@ -92,7 +92,7 @@ HachemMadmoun:
     alt: "Hachem Madmoun"
     title: "Hachem Madmoun"
     excerpt: |
-        Postdoctoral Associate I, Machine Learning<br>Mohamed bin Zayed University
+        Postdoctoral Associate<br>Mohamed bin Zayed University
 
 ---
 <br/>
