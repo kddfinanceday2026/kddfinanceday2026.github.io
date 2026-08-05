@@ -87,6 +87,13 @@ JunSeo:
     excerpt: |
         LG AI Research
 
+HachemMadmoun:
+  - image_path: assets/images/HachemMadmoun.jpeg
+    alt: "Hachem Madmoun"
+    title: "Hachem Madmoun"
+    excerpt: |
+        Postdoctoral Associate I, Machine Learning
+
 ---
 <br/>
 <section class="organizers speaker-photos" markdown="1">
@@ -104,6 +111,7 @@ JunSeo:
 {% include feature_row id="ArmanSahovic" type="left" %}
 {% include feature_row id="SaurabhNagrecha" type="left" %}
 {% include feature_row id="Soojung" type="left" %}
+{% include feature_row id="HachemMadmoun" type="left" %}
 
 ### Panel Discussion
 
