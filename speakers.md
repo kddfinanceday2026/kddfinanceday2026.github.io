@@ -88,11 +88,11 @@ JunSeo:
         LG AI Research
 
 HachemMadmoun:
-  - image_path: assets/images/HachemMadmoun.jpeg
+  - image_path: assets/images/placeholder-gray.jpg
     alt: "Hachem Madmoun"
     title: "Hachem Madmoun"
     excerpt: |
-        Postdoctoral Associate I, Machine Learning
+        Postdoctoral Associate I, Machine Learning<br>Mohamed bin Zayed University
 
 ---
 <br/>
