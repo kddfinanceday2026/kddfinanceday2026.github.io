@@ -93,7 +93,7 @@ HachemMadmoun:
     title: "Hachem Madmoun"
     url: "https://www.linkedin.com/in/hachem-madmoun-835b94110/"
     excerpt: |
-        Co-founder, Syllogia<br>Module Leader, Imperial College Business School<br>Researcher, MBZUAI
+        Co-founder, Syllogia
 
 ---
 <br/>
