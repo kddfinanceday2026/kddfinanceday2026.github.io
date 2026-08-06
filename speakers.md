@@ -88,11 +88,12 @@ JunSeo:
         LG AI Research
 
 HachemMadmoun:
-  - image_path: assets/images/placeholder-gray.jpg
+  - image_path: assets/images/HachemMadmoun.jpeg
     alt: "Hachem Madmoun"
     title: "Hachem Madmoun"
+    url: "https://www.linkedin.com/in/hachem-madmoun-835b94110/"
     excerpt: |
-        Postdoctoral Associate<br>Mohamed bin Zayed University
+        Co-founder, Syllogia<br>Module Leader, Imperial College Business School<br>Researcher, MBZUAI
 
 ---
 <br/>
